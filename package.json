@@ -2,5 +2,5 @@
   "name": "hexo-tag-yearly-post-list",
   "version": "0.0.1",
   "description": "Yearly post list tag plugin for Hexo",
-  "main": "index",
+  "main": "index"
 }
